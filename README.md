@@ -12,13 +12,3 @@
     - use JSON-data
 + 2. frontend with JavaScript, React, Material UI, responsive
 + 3. backend client-server architecture (Apollo-Server, GraphQL)
-
-
-_________________________________
-
-- frontend bauen
-- mit statischen Daten
-- json Datei ? was mache ich damit?
-- brauche ich eine api? context?
-- search funktion bauen
-
