@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  font-family: 'Playfair Display', serif;
+}
+
+header {
+  margin: 50px auto;
+  text-align: center;
+}
+
+.wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.searchNumbersField{
+  margin: 20px;
+}
+
+label{
+  margin-right: 20px;
+}
+
+
+
+.showPhoneBook {
+}
+
+
+/* ---- list ---- */
+
+ul li {
+  list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid rgba(36, 25, 87, 0.322);
+    border-radius: 40px;
+    margin: 10px 0;
+    padding: 5px 15px;
+}
+
+.firstName{
+  margin-right: 10px;
+}
+
+
+footer {
+  position: fixed;
+  z-index: 100;
+  background-color: white;
+  bottom: 0;
+  width: 100vw;
+  text-align: center;
+  border-top: 1px solid rgba(36, 25, 87, 0.322);
+}
+
+footer p {
+  margin: 20px 0;
+}
