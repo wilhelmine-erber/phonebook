@@ -1,12 +1,11 @@
 # phonebook
 
-# Getting Started with project at 09.09.2021
+## Getting Started with project at 09.09.2021
 09.09. - 1h
 
 10.09. - 2h
 
-## Overview
-
+### Overview
 + 1 simple graphical user interface 
     - input field, search Name
     - autocomplete, not case-sensitive
