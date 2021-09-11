@@ -3,7 +3,7 @@
 ## Getting Started with project at 09.09.2021
 09.09. - 1h
 
-10.09. - 2h
+10.09. - 5h
 
 ### Overview
 + 1 simple graphical user interface 

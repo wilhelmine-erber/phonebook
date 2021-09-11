@@ -5,12 +5,10 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import PhoneNumberProvider from './contexts/phoneContext';
 
-
 ReactDOM.render(
   <PhoneNumberProvider>
      <App />
   </PhoneNumberProvider>
-   
 ,
   document.getElementById('root')
 );

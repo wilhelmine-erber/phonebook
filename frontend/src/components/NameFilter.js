@@ -14,10 +14,11 @@ const NameFilter = () => {
 
     return (
         <div className="searchNumbersField">
-            <label>enter a name</label>
+            <label>enter a name:</label>
             <input
                 type="text"
                 name="inputName"
+                placeholder="name"
                 onChange={handleChange}
                 value={search}
             ></input>
