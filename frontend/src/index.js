@@ -7,9 +7,9 @@ import PhoneNumberProvider from './contexts/phoneContext';
 
 ReactDOM.render(
   <PhoneNumberProvider>
-     <App />
+    <App />
   </PhoneNumberProvider>
-,
+  ,
   document.getElementById('root')
 );
 
