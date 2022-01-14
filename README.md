@@ -1,8 +1,5 @@
 # phonebook
 
-## Getting Started with project at 10.09.2021
-
-### Overview
 + 1 simple graphical user interface 
     - input field, search Name
     - autocomplete, not case-sensitive
