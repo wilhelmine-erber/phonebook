@@ -1,5 +1,7 @@
 # JavaScript phonebook
 
+## Filter function for phone numbers
+
 + simple graphical user interface 
     - input field, search Name
     - autocomplete, not case-sensitive
@@ -8,4 +10,4 @@
 
 + frontend with JavaScript, React, responsive
 
-+ backend with express.js
++ backend with express
