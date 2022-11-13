@@ -1,6 +1,6 @@
-# JavaScript phonebook
+# phonebook
 
-## Filter function for phone numbers
+## filter function for phone numbers
 
 + simple graphical user interface 
     - input field, search Name
