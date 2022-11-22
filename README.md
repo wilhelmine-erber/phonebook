@@ -4,13 +4,14 @@
 
 ![screenshot](./img/screnshot-phone-filter.png)
 
+### about project
 + simple graphical user interface 
     - input field, search Name
     - autocomplete, not case-sensitive
     - use JSON-data
     - the design comes later
 
-##### Developed With
+### Developed With
     - HTML5
     - CSS3
     - JavaScript
