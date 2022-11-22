@@ -15,7 +15,7 @@ const PhoneBook = () => {
         <PhoneList />
       </div>
       <footer>
-        <p>Wilhelmine Erber - september 2021</p>
+        <p>Wilhelmine Erber - september 2022</p>
       </footer>
     </div>
   );
