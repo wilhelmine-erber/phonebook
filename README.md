@@ -2,7 +2,7 @@
 
 ## filter function for phone numbers
 
--[screenshot](./img/screnshot-phone-filter.png)
+![screenshot](./img/screnshot-phone-filter.png)
 
 + simple graphical user interface 
     - input field, search Name
